@@ -72,4 +72,4 @@ if __name__ == "__main__":
 <!--- [GitHub](https://github.com/kishore7snehil)  
 - [Resume](link-to-your-latest-resume)](url) -->
 
-*Always open to collaborating on open‑source projects and building products that make renting and moving easier.*
+*Always open to collaborating on open‑source projects and building products.*
